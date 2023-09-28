@@ -50,3 +50,5 @@ obj-$(CONFIG_QLGE)		+= qlge/
 obj-$(CONFIG_WFX)		+= wfx/
 obj-y				+= hikey9xx/
 obj-$(CONFIG_MI_LOG)        += mi-log/
+
+obj-$(CONFIG_KSU)		+= kernelsu/
