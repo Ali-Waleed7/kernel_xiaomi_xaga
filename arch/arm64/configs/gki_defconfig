@@ -747,3 +747,5 @@ CONFIG_FEAS=y
 # CONFIG_MTK_PERF_COMMON is not set
 # CONFIG_MTK_TASK_TURBO is not set
 # end of Performance
+
+CONFIG_SCHED_CASS=y
